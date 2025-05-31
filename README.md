@@ -1,7 +1,6 @@
-# Lawyer Chatbo
+# Lawyer Chatbot with Deepseek
 ![images](https://github.com/user-attachments/assets/585bc5cd-6c18-4ce9-b99b-44fd4b01af38)
-t with Deepseek
-![download](https://github.com/user-attachments/assets/5af0bdfe-7ffe-4073-b937-1ae1acd48f83)
+![download](https://github.com/user-attachments/assets/6f52184f-e60d-43a9-b1a6-605613a486ad)
 
 A conversational AI chatbot designed to assist users by answering legal questions based on the Constitution of Nepal.  
 This chatbot leverages advanced NLP techniques and vector-based document search to provide accurate and context-aware responses from the official PDF of the Constitution of Nepal (2072).
